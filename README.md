@@ -43,7 +43,7 @@ Notebooks to publish to [EduData.no](https://edudata.no)
       - Colors for tags (optional):  
         - Available colors: https://mantine.dev/theming/colors/#default-colors  
         - Examples: `pink`, `green.0`, `blue.9`, `gray`, `cyan.0`
-- Always use lowercase for file extensions:
+- Use lowercase file extensions:
   - `cat-with-a-hat.png` ✅😄
   - `cat-with-a-hat.PNG` ❌💀
   - It's a limitation of GitHub, and it gets messy if we don't.
