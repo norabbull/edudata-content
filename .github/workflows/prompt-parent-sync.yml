@@ -3,7 +3,7 @@ name: Send submodule updates to parent repo
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with: 
-          repository: org/parent_repository
+          repository: VidunderGunder/edudata
           token: ${{ secrets.PRIVATE_TOKEN_GITHUB }}
 
       - name: Pull & update submodules recursively
