@@ -6,6 +6,10 @@ Feel free to contribute by contacting [Morten Munthe](mailto:morten.munthe@nmbu.
 
 ## Folders
 
-- `data` : Temporary data storage solution (will be published)
-- `private` : Hidden notebooks for internal use or drafts
-- `public` : Notebooks to publish
+- `data`  
+Temporary data storage solution (will be published to [EduData.no](https://edudata.no))
+- `private`  
+Hidden notebooks for internal use or drafts  
+_Note: The code is still publically available on GitHub, but it's not published to [EduData.no](https://edudata.no)_
+- `public`  
+Notebooks to publish to [EduData.no](https://edudata.no)
