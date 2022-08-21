@@ -32,4 +32,4 @@ Notebooks to publish to [EduData.no](https://edudata.no)
   - `æøå er  $ærdeles norske #symboler?!.png` ❌💀
   - `aeooaa-er-saerdeles-norske-symboler.png` ✅🙂
   - `norske-symboler.png` ✅😄
-  - It hasn't caused big problems yet, but it'll probably save us some headaches in the future.'
+  - It hasn't caused big problems yet, but it'll probably save us some headaches in the future.
