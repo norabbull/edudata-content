@@ -27,7 +27,7 @@ Notebooks to publish to [EduData.no](https://edudata.no)
 - Always use lowercase for file extensions:
   - `cat-with-a-hat.png` ✅😄
   - `cat-with-a-hat.PNG` ❌💀
-  - It's a limitation of GitHub, and it gets messy we don't.
+  - It's a limitation of GitHub, and it gets messy if we don't.
 - Avoid special characters in filenames:
   - `æøå er  $ærdeles norske #symboler?!.png` ❌💀
   - `aeooaa-er-saerdeles-norske-symboler.png` ✅🙂
