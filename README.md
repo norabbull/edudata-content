@@ -28,7 +28,7 @@ Notebooks to publish to [EduData.no](https://edudata.no)
   - [PixaBay](https://pixabay.com/)
   - [Pexels](https://www.pexels.com/)
   - ...or create your own 😊
-- Remember to add a `metadata.json` file to each notebook-folder:
+- Add a `metadata.json` file to each notebook-folder:
 - - `📁 eksempel`
     - `📄 eksempel.ipynb`  
     - `📄 metadata.json` ✅😄  
