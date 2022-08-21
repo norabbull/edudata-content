@@ -6,6 +6,6 @@ Feel free to contribute by contacting [Morten Munthe](mailto:morten.munthe@nmbu.
 
 ## Folders
 
-- `data` : Temporary data storage solution
+- `data` : Temporary data storage solution (will be published)
 - `private` : Hidden notebooks for internal use or drafts
 - `public` : Notebooks to publish
