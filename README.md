@@ -6,6 +6,8 @@ Feel free to contribute by contacting [Morten Munthe](mailto:morten.munthe@nmbu.
 
 ## Folders
 
+- `.github`  
+Ignore this. It does magic.
 - `data`  
 Temporary data storage solution (will be published to [EduData.no](https://edudata.no))
 - `private`  
