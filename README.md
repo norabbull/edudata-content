@@ -19,11 +19,30 @@ Notebooks to publish to [EduData.no](https://edudata.no)
 
 ## Guidelines
 
-- The folder name and `.ipynb` file name must match:
+- Folder name and `.ipynb` file name must match:
   - `📁 et-solid-opplegg`
     - `📄 et-solid-opplegg.ipynb` ✅😄
   - `📁 et-solid-opplegg`
     - `📄 Et uheldig eksempel.ipynb` ❌💀
+- Use copyright free media:
+  - [PixaBay](https://pixabay.com/)
+  - [Pexels](https://www.pexels.com/)
+  - ...or create your own 😊
+- Remember to add a `metadata.json` file to each notebook-folder:
+- - `📁 eksempel`
+    - `📄 eksempel.ipynb`  
+    - `📄 metadata.json` ✅😄  
+      ```json
+      {
+        "title": "Eksempel",
+        "description": "Dette er et eksempel.",
+        "tags": [{ "tag": "fag", "color": "orange" }],
+        "image": "https://pixabay.com/photos/cat-pet-licking-animal-tabby-cat-323262/"
+      }
+      ```
+      - Colors for tags (optional):  
+        - Available colors: https://mantine.dev/theming/colors/#default-colors  
+        - Examples: `pink`, `green.0`, `blue.9`, `gray`, `cyan.0`
 - Always use lowercase for file extensions:
   - `cat-with-a-hat.png` ✅😄
   - `cat-with-a-hat.PNG` ❌💀
