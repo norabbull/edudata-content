@@ -13,14 +13,22 @@ on:
       - "**.jpeg"
       - "**.png"
       - "**.webp"
+      - "**.JPG"
+      - "**.JPEG"
+      - "**.PNG"
+      - "**.WEBP"
   push:
     branches:
-      - main
+      - master
     paths:
       - "**.jpg"
       - "**.jpeg"
       - "**.png"
       - "**.webp"
+      - "**.JPG"
+      - "**.JPEG"
+      - "**.PNG"
+      - "**.WEBP"
   workflow_dispatch:
   schedule:
     - cron: "00 23 * * 0"
