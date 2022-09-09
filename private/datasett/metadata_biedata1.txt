@@ -1,0 +1,4 @@
+navn: biedata1.csv
+Beskrivelse: Dataen beskriver hovedsaklig hvor lenge bier har oppholdt seg på 4 ulike "sosiale" arenaer i biesamfunnet, beskrevet som dansegulv, honning-lager, nær-utgang og hekkeområde. Dataen i disse fire kolonnene i datasettet summeres til 1, hvor kolonnen location_descriptor_count beskriver total mengde tid bien er observert på alle lokasjonene. I tillegg beskriver kolonnene velocity_* hastigheten til bien i mm/s.
+Kilde: https://zenodo.org/record/4438013#.Yxicd3ZBxPb
+Tilhørende artikkel: https://www.nature.com/articles/s41467-021-21212-5#MOESM1

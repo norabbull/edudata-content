@@ -1,0 +1,5 @@
+Navn: matvaretabellen.csv
+Beskrivelse: Matvaretabellen viser verdier for innhold av energi og næringsstoffer i 100 gram matvare for råvarer, produkter, tilberedte matvarer og retter. Matvarene er plassert i elleve hovedgrupper med tilhørende undergrupper.
+Hentet dato: 08.09.2022
+Kilde: https://matvaretabellen.no/
+Kildehenvisning: "Matvaretabellen 2021. Mattilsynet. www.matvaretabellen.no".

@@ -1,0 +1,4 @@
+Navn: havtemperatur_1982-1922.csv
+Beskrivelse: Gjennomsnittlig havoverflatetemperatur for hele verden for alle datoer fra 1982 - 2022
+Hentet dato: 26.05.22
+Kilde: https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-sea-surface-temperature?tab=form
