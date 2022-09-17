@@ -1,0 +1,9 @@
+{
+  "title": "Smittespredning",
+  "description": "Modeller for og simulering av smittespredning.",
+  "tags": [
+    { "tag": "biologi", "color": "teal" },
+    { "tag": "biologi 2", "color": "teal" }
+  ],
+  "image": "https://cdn.pixabay.com/photo/2020/03/27/04/33/coronavirus-4972480_960_720.jpg"
+}

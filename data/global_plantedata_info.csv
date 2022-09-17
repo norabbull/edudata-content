@@ -1,0 +1,73 @@
+Variable,Description,Unit
+Aarea,Light-saturated photosynthetic carbon assimilation per unit leaf area,µmol m-2 s-1
+ALU,Exchangeable aluminum percentage ,% of ECEC
+Amass,Light-saturated photosynthetic carbon assimilation per unit leaf mass,nmol g-1 s-1
+AWHC,Available water holding capacity (-33 to -1500 kPa; USDA standard),mm m-1
+BULK,Bulk density,kg dm-3
+CARB,Calcium carbonate content,g  kg-1
+CECC,"Cation exchange capacity of clay size fraction, corrected from contribution of organic matter",cmol+ kg-1
+CECS,Cation exchange capacity,cmolc kg-1
+cite,Reference,-
+CLAY,Clay content,%wt
+CN,CN ratio,gC gN-1
+Continent,Continent,-
+Corg,Organic carbon content,gC kg-1
+Country,Country,-
+DecEv,Deciduous or evergreen species,-
+DEPTH,Depth to the parent rock,cm
+ELEV,Elevation,m
+Family,Family,-
+Genus,Genus,-
+Genus.spp,Genus + Species,-
+GF,"Growth form (Tree, Shrub, Herbs, Grass, Ferns, Vines)",-
+GRAVEL,Gravel content,%wt
+Gs,Stomatal conductance to water vapour ,mmol m-2 s-1
+LAT,Latitude,˚
+Latitude,Site latitude,-
+Location,Site Name,-
+Longitude,Site Longitude,-
+MIF,Moisture index (MIF =  PPTmean / PETF) ,mm mm-1
+MIQ,Moisture index (MIQ =  PPTmean / PETQ) ,mm mm-1
+Narea,Leaf nitrogen content per unit leaf area,gN m-2
+Nmass,Leaf nitrogen content per unit leaf mass,%
+Ntot,Total nitrogen content,gN kg-1
+Order,Order,-
+PAR,Cumulative photosynthetically active radiation with daily temperature above 0 ˚C (PAR0) or 5˚C (PAR5),W m-2
+Parea,Leaf phosphorus content per unit leaf area,gP m-2
+Pavail,Available soil phosphate content,mgP2O5 kg-1
+PETF,Potential evapotranspiration (Penman Monteith equation),mm month-1
+PETQ,Equilibrium evapotranspiration (Prentice equation),mm month-1
+pH,Soil pH measured in H2O solution,0-14
+Pmass,Leaf phosphorus content per unit leaf mass,%
+PPTcv,Coefficient of variation of monthly precipitation,mm
+PPTmax,Maximum monthly precipitation,mm
+PPTmean,Mean annual precipitation,mm
+PPTmin,Minimum monthly precipitation,mm
+PPTseason,"Seasonality of precipitation: seasonal concentration of precipitation over the year (PPTseason = 1, all the precipitation are concentrated on one month)",0-1
+P.Distance,Distance between the site where Pavail were measured and the site where leaf traits were measured,km
+P.Method,Soil phosphorus extraction method,"Bray I, Bray II, Colwell, Mehlich III, Olsen"
+P.retention.class,Class of soil phosphorus retention,"Low, Moderate, High, Very High"
+P.Source,Dataset where Pavail was from,See Maire et al GEB supplementary materials for details
+RAD,Global radiation,W m-2
+RH,Relative humidity,%
+SALT,Salinity measured by the electrical conductivity of the soil,dS m-1
+SAND,Sand content,%wt
+SBA,Base saturation as percentage of CECS,%
+SILT,Silt content,%wt
+SITECODE,Site code,-
+SLA,Specific leaf area ,cm2 g-1
+SODIUM,Sodicity measured by the exchangeable sodium percentage,% of ECEC
+Species,Species,-
+SUNmax,Maximum monthly fractional sunshine duration,%
+SUNmean,Mean annual fractional sunshine duration (measured sunshine hours / theoretical maximum duration of sunshine hours),%
+SUNmin,Mean monthly fractional sunshine duration,%
+SUNrange,Range of monthly fractional sunshine duration Σ (SUNmax-SUNmin) / 12,%
+TaxGroup,"Angiosperm, Gymnosperm or Ferns",-
+TBA,Total exchangeable bases,cmol kg-1
+TMPgs,Cumulative daily temperature above 0˚C (TMP0gs) or 5˚C (TMP5gs),ºC
+TMPiso,Isothermality (TMPrange/(TMPmax –TMPmin))*0,-
+TMPmax,Maximal monthly temperature,ºC
+TMPmean,Mean annual temperature,ºC
+TMPmin,Minimal monthly temperature,ºC
+TMPnb,Number of days with daily temperature above 0˚C (TMP0nb) or 5˚C (TMP5nb),#
+TMPrange,Mean diurnal temperature range (Σ (TMPmax –TMPmin) / 12),ºC
