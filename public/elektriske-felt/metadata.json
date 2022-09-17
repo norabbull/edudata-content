@@ -1,6 +1,5 @@
 {
   "title": "Elektriske felt",
   "description": "Beregning og visualisering av elektrisk felt rundt en til flere elektrisk ladde partikler.",
-  "tags": [{ "tag": "fysikk", "color": "grape" }],
-  "image": "https://cdn.pixabay.com/photo/2019/11/17/07/52/current-4631715_960_720.jpg"
+  "tags": [{ "tag": "fysikk", "color": "grape" }]
 }
