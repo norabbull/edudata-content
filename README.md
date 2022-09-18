@@ -19,6 +19,43 @@ Notebooks to publish to [EduData.no](https://edudata.no)
 
 ## Guidelines
 
+Look at the published notebooks for inspiration.
+
+#### Follow Markdown conventions
+
+See GitHub's [Mastering Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) guide.
+
+If you must use HTML, keep it simple and standalone from Markdown elements, e.g.:
+
+This is perfect:  ✅😄
+
+```markdown
+# Heading
+
+Paragraph with a [link](https://edudata.no).
+
+<div>
+  <p>Some HTML</p>
+</div>
+```
+
+This should be avoided:  ❌😢
+
+```markdown
+# Head<span style="color: 'red'">in</span>g
+
+Paragraph with a **bold <a href="https://edudata.no">link</a>**.
+
+> **Note:** This is a blockquote
+> 
+> <div>
+>  <p>Some HTML</p>
+> </div>
+
+```
+
+
+
 #### Folder name and `.ipynb` file name must match
 
 - `📁 et-solid-opplegg`
@@ -28,8 +65,12 @@ Notebooks to publish to [EduData.no](https://edudata.no)
 
 #### Use copyright free media
 
+- [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+  - Generate free AI images
 - [PixaBay](https://pixabay.com/)
+  - Royalty free images, illustrations, vectors, videos, music and sound effects
 - [Pexels](https://www.pexels.com/)
+  - Royalty free images and videos
 - ...or create your own 😊
 
 #### Add a `metadata.json` file to each notebook-folder
