@@ -1,4 +1,4 @@
 navn: global_plantedata.csv
 kilde: https://datadryad.org/stash/dataset/doi:10.5061/dryad.j42m7
 tilhørende artikkel: Data from: Global effects of soil and climate on leaf photosynthetic traits and rates
-beskrivelse: Data for en rekke plante-egenskaper og klimavariabler for  over 2600 planteprøver fra hele verden. Kolleksjon av data fra forksning.
+beskrivelse: Data for en rekke plante-egenskaper og klimavariabler for  over 2600 planteprøver fra hele verden. Kolleksjon av data fra forskning.
